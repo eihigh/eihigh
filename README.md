@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Job: server-side engineer in entertainment areas
+
+Likes: Go, Ebitengine, gamedev
+
+### Articles
+- [ソシャゲ運営を8年やって感じた、良いところと悪いところ](https://eihigh.hatenablog.com/entry/2023/04/09/214734)
+- [Goで社内ツールを作るならこんなふうに](https://zenn.dev/eihigh/articles/0774ddadc21eb4)
+- [Go1.16からは go get は使わず go install を使おう](https://qiita.com/eihigh/items/9fe52804610a8c4b7e41)
+
 <!--
 **eihigh/eihigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
