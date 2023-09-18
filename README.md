@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Website: https://eihigh.dev
+Website: https://eihigh.pages.dev
 
 Job: server-side engineer in entertainment areas
 
