@@ -11,6 +11,16 @@ Likes: Go, Ebitengine, gamedev
 - [Goで社内ツールを作るならこんなふうに](https://zenn.dev/eihigh/articles/0774ddadc21eb4)
 - [Go1.16からは go get は使わず go install を使おう](https://qiita.com/eihigh/items/9fe52804610a8c4b7e41)
 
+### License
+
+gopher.png
+
+```
+The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/)
+The design is licensed under the Creative Commons 4.0 Attributions license.
+Read this article for more details: https://blog.golang.org/gopher
+```
+
 <!--
 **eihigh/eihigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
